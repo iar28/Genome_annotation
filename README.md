@@ -9,9 +9,13 @@ For more information about Braker2 and the tutorial you can log into: https://bi
 Make sure you have installed the following packages using conda (with their dependencies)
  
 bbmap
+
 fastqc
+
 repeatmasker
+
 repeatmodeler
+
 ...
 
 
