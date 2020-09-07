@@ -1,17 +1,16 @@
 # Genome_annotation
 # Scripts for genome annotation
 
- This repository contains the instructions and scripts for annotating a genome based on the Braker2 pipeline. 
- For more information about Braker2 and the tutorial you can log into: https://bioinformaticsworkbook.org/dataAnalysis/GenomeAnnotation/Intro_to_Braker2.html#gsc.tab=0
+This repository contains the instructions and scripts for annotating a genome based on the Braker2 pipeline. 
+For more information about Braker2 and the tutorial you can log into: https://bioinformaticsworkbook.org/dataAnalysis/GenomeAnnotation/Intro_to_Braker2.html#gsc.tab=0
 
 # Requirements:
 
 Make sure you have installed the following packages using conda (with their dependencies):
-
-#bbmap
-#fastqc
-#repeatmasker
-#repeatmodeler
+ bbmap,
+ fastqc,
+ repeatmasker,
+ repeatmodeler,
 ...
 
 
