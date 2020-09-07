@@ -8,10 +8,10 @@
 
 Make sure you have installed the following packages using conda (with their dependencies):
 
-bbmap
-fastqc
-repeatmasker
-repeatmodeler
+#bbmap
+#fastqc
+#repeatmasker
+#repeatmodeler
 ...
 
 
