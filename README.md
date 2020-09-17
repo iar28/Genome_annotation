@@ -16,7 +16,9 @@ repeatmasker
 
 repeatmodeler
 
-...
+hisat2
+
+samtools
 
 
 
