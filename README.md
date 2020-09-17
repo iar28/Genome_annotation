@@ -18,7 +18,7 @@ repeatmodeler
 
 hisat2
 
-samtools
+samtools.
 
 
 
